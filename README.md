@@ -5,4 +5,4 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Pavithra2206/Deep-Learning?color=blue&logo=python&style=for-the-badge)](https:/Defcon27/Deep-Learning)
 
 
-This Repository consists of various Deep Learning projects and materials that have been implemented on various datasets through my Deep Learning journey.
+This repository consists of various Deep Learning projects and materials that have been implemented on various datasets through my Deep Learning journey.
